@@ -1,2 +1,2 @@
 # postgres-server
-Postgres Server Continaer
+Postgres Server Container
